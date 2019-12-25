@@ -493,6 +493,12 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
   )
 
+  (gr_text Rev2019.12 (at 147.4 63.475 90) (layer F.SilkS)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
+  (gr_text JointForSideBBForRaspberryPi (at 147.2 82.75 90) (layer F.SilkS)
+    (effects (font (size 1.2 1.2) (thickness 0.3)))
+  )
   (gr_arc (start 137 108) (end 137 111.5) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5DF796B1))
   (gr_arc (start 158.24 108) (end 161.74 108) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5DF796B1))
   (gr_arc (start 158.24 50) (end 158.24 46.5) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5DF796B1))
