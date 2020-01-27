@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 615)
+    (start_pass_no 469)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -87,7 +87,7 @@
     )
   )
   (class "kicad_default"
-    +3V3 +5V GND "/ID_SD" "/ID_SC" /GPIO5 /GPIO6 /GPIO26
+    GND +3V3 +5V "/ID_SD" "/ID_SC" /GPIO5 /GPIO6 /GPIO26
     "/GPIO2(SDA1)" "/GPIO3(SCL1)" "/GPIO4(GCLK)" "/GPIO14(TXD0)" "/GPIO15(RXD0)" "/GPIO17(GEN0)" "/GPIO27(GEN2)" "/GPIO22(GEN3)"
     "/GPIO23(GEN4)" "/GPIO24(GEN5)" "/GPIO25(GEN6)" "/GPIO18(GEN1)(PWM0)" "/GPIO10(SPI0_MOSI)" "/GPIO9(SPI0_MISO)" "/GPIO11(SPI0_SCK)" "/GPIO8(SPI0_CE_N)"
     "/GPIO7(SPI1_CE_N)" "/GPIO12(PWM0)" "/GPIO13(PWM1)" "/GPIO19(SPI1_MISO)" /GPIO16 "/GPIO20(SPI1_MOSI)" "/GPIO21(SPI1_SCK)"
