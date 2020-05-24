@@ -259,7 +259,7 @@ U 1 1 59AD464A
 P 7100 3650
 F 0 "P1" H 7150 4767 50  0000 C CNN
 F 1 "Conn_02x20_Odd_Even" H 7150 4676 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical" H 2250 2700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" H 2250 2700 50  0001 C CNN
 F 3 "" H 2250 2700 50  0001 C CNN
 	1    7100 3650
 	1    0    0    -1  
