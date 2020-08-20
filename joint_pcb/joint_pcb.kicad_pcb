@@ -514,7 +514,7 @@
   (gr_line (start 148.038407 53.011268) (end 148.031723 53.5) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 138.7 53.5) (end 146.034 53.5) (layer Edge.Cuts) (width 0.05) (tstamp 5EEF0680))
   (gr_arc (start 147 50.5) (end 146.034 53.04) (angle 316.7123925) (layer Edge.Cuts) (width 0.05))
-  (gr_text Rev2020.06 (at 153 67.825 90) (layer F.SilkS)
+  (gr_text Rev2020.08 (at 153 67.825 90) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text MirrorJointForRaspberryPi (at 152.45 83.225 90) (layer F.SilkS)
